@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215" height="48" viewBox="0 0 215 48">
+    <defs>
+        <circle id="577ry02ola" cx="24" cy="24" r="24"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <text fill="#0091FF" font-family="AvertaStdPE-Bold, Averta Std PE" font-size="32" font-weight="bold" transform="translate(-433 -150) translate(433 150)">
+                    <tspan x="54.5" y="35">AdoraStat</tspan>
+                </text>
+                <g transform="translate(-433 -150) translate(433 150)">
+                    <g>
+                        <mask id="84jnub68fb" fill="#fff">
+                            <use xlink:href="#577ry02ola"/>
+                        </mask>
+                        <use fill="#05294C" xlink:href="#577ry02ola"/>
+                        <path fill="#52D0F0" d="M24 55c8.837 0 18.172-7.163 18.172-16 0-3.25-3.35-16.382-5.015-18.906-2.861-4.339-8.054-7.344-13.641-7.344-5.182 0-10.592 4.852-13.516 8.671-2.063 2.694-3.9 14.813-3.9 18.468C6.1 48.725 15.163 55 24 55z" mask="url(#84jnub68fb)"/>
+                        <path fill="#52D0F0" d="M39.546 12.12c1.061 1.06.513 4.283-1.644 9.669l-.07-.072c.11.581.168 1.177.168 1.783C38 29.851 31.732 35 24 35s-14-5.149-14-11.5c0-.74.085-1.463.247-2.164l-.477.462c-2.161-5.195-2.721-8.314-1.68-9.356.97-.97 3.81-.54 8.522 1.288C18.756 12.634 21.288 12 24 12c2.474 0 4.797.527 6.814 1.452 4.809-1.902 7.72-2.345 8.732-1.332z" mask="url(#84jnub68fb)"/>
+                        <path fill="#0091FF" d="M36.25 15c.75 0 1.5 1 2.25 3H34c.75-2 1.5-3 2.25-3z" mask="url(#84jnub68fb)" transform="rotate(45 36.25 16.5)"/>
+                        <path fill="#0091FF" d="M11.25 15c.75 0 1.5 1 2.25 3H9c.75-2 1.5-3 2.25-3z" mask="url(#84jnub68fb)" transform="rotate(-45 11.25 16.5)"/>
+                        <circle cx="16.875" cy="24.375" r="1.875" fill="#05294C" stroke="#FFF" stroke-width="1.5" mask="url(#84jnub68fb)"/>
+                        <circle cx="31.125" cy="24.375" r="1.875" fill="#05294C" stroke="#FFF" stroke-width="1.5" mask="url(#84jnub68fb)"/>
+                    </g>
+                    <path fill="#05294C" d="M24 26.25L26.25 28.5 21.75 28.5z" transform="rotate(-180 24 27.375)"/>
+                    <path stroke="#05294C" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75" d="M21 29.294c.565.391 1.104.493 1.617.305.513-.188.96-.721 1.341-1.599.37.777.782 1.31 1.236 1.599.453.288 1.028.187 1.723-.305"/>
+                    <circle cx="16" cy="24" r="5" stroke="#05294C"/>
+                    <circle cx="32" cy="24" r="5" stroke="#05294C"/>
+                    <path stroke="#05294C" stroke-linecap="square" d="M21.191 24c.584-.667 1.506-1 2.767-1s2.2.333 2.818 1"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
