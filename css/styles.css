@@ -40,7 +40,7 @@ html {
 }
 
 .logo-container {
-  width: 320px;
+  width: 360px;
 }
 
 .adora-logo {
@@ -49,23 +49,24 @@ html {
 }
 
 .tagline {
-  font-size: 20px;
   text-align: center;
   margin: 4px auto 0;
 }
 
 .description {
-  width: 320px;
+  width: 360px;
+  margin: 1.5em 0;
+  text-align: center;
 }
 
 .crafted-by {
   position: absolute;
   bottom: 0;
-  padding: 4px 0;
+  padding: 4px 24px;
 }
 
 .crafted-by p {
-  font-size: 14px;
+  font-size: 12px;
   color: #999;
 }
 
@@ -88,3 +89,36 @@ html {
   min-width: 144px;
   border-radius: 3px;
 }
+
+
+/* Responsive Styles */
+@media (min-width: 640px) {
+  .tagline {
+    font-size: 20px;
+  }
+
+  .logo-container {
+    width: 360px;
+  }
+    
+  .description {
+    width: 360px;
+    margin: 1em 0;
+  }
+  
+  .crafted-by p {
+    font-size: 14px;
+  }  
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 1024px) {
+
+}
+
+/* @media (min-width: 1280px) {
+
+} */
