@@ -60,6 +60,8 @@ html {
 }
 
 .crafted-by {
+  display: flex;
+  flex-direction: column;
   position: absolute;
   bottom: 0;
   padding: 4px 24px;
